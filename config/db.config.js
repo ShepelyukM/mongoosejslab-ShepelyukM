@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const db = 'mongodb+srv://khoiskyioleksandr:parol123@cluster0.jau9bh0.mongodb.net/node-block';
+const db = 'mongodb+srv://shepeliukmaksym:kobolchin11@cluster0.ewtljp6.mongodb.net/databasemax';
 async function connectToDb() {
     await mongoose.connect(db);
 }
